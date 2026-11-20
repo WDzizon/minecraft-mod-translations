@@ -1,0 +1,10 @@
+{
+  "block.linearbearing.linear_bearing": "리니어 베어링",
+  "block.linearbearing.linear_casing": "리니어 케이스",
+  "block.linearbearing.torsional_anchor": "비틀림 앵커",
+  "block.linearbearing.magnetic_port": "자성 포트",
+  "block.linearbearing.andesite_lamp": "안산암 램프",
+  "block.linearbearing.redstone_converter": "레드스톤 변환기",
+
+  "itemGroup.linearbearing.tab": "Create: 리니어 베어링"
+}

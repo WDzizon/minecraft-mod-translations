@@ -1,0 +1,14 @@
+{
+  "block.create_abyss.creepvine_seed": "크립바인 씨앗",
+  "block.create_abyss.submarine_liana": "잠수함 덩굴",
+  "create_abyss.command.no_sublevel_container": "현재 차원에서 서브레벨 컨테이너를 찾을 수 없습니다.",
+  "create_abyss.command.player_only": "플레이어만 이 명령어를 실행할 수 있습니다.",
+  "create_abyss.command.queue_submarine_lianas": "현재 위치에서 길이 %2$s인 잠수함 덩굴 %1$s개의 생성을 대기열에 추가했습니다.",
+  "create_abyss.command.spawn_liana_failed": "잠수함 덩굴을 생성하지 못했습니다.",
+  "create_abyss.command.spawn_liana_success": "길이 %s인 잠수함 덩굴을 성공적으로 생성했습니다.",
+  "entity.create_abyss.amphistium": "암피스티움",
+  "entity.create_abyss.cookiecutter_shark": "쿠키커터 상어",
+  "item.create_abyss.amphistium_spawn_egg": "암피스티움 스폰 알",
+  "item.create_abyss.cookiecutter_shark_spawn_egg": "쿠키커터 상어 스폰 알",
+  "itemGroup.create_abyss.abyss_tab": "Create Abyss"
+}

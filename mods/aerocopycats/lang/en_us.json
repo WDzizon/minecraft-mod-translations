@@ -1,0 +1,13 @@
+{
+  "itemGroup.aerocopycats": "Example Mod Tab",
+  "block.aerocopycats.example_block": "Example Block",
+  "item.aerocopycats.example_item": "Example Item",
+
+  "aerocopycats.configuration.title": "aero_copycats Configs",
+  "aerocopycats.configuration.section.aerocopycats.common.toml": "aero_copycats Configs",
+  "aerocopycats.configuration.section.aerocopycats.common.toml.title": "aero_copycats Configs",
+  "aerocopycats.configuration.items": "Item List",
+  "aerocopycats.configuration.logDirtBlock": "Log Dirt Block",
+  "aerocopycats.configuration.magicNumberIntroduction": "Magic Number Text",
+  "aerocopycats.configuration.magicNumber": "Magic Number"
+}

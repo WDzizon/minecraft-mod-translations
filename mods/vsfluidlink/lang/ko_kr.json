@@ -1,0 +1,30 @@
+{
+  "block.vsfluidlink.hose_connector": "호스 커넥터",
+  "item.vsfluidlink.hose_connector.tooltip": "함선 간의 유체 수송을 더 쉽게 만들어줍니다. \n렌치를 들고 우클릭하여 연결 지점을 설정한 후, \n다른 커넥터를 우클릭하여 연결하세요.",
+  "block.vsfluidlink.magnet_hose_connector": "자석 호스 커넥터",
+  "item.vsfluidlink.magnet_hose_connector.tooltip": "앞에 있는 다른 커넥터와 자동으로 연결됩니다. \n레드스톤 신호를 받으면 연결이 해제됩니다.",
+  "block.vsfluidlink.item_hose_connector": "아이템 호스 커넥터",
+  "item.vsfluidlink.item_hose_connector.tooltip": "함선 간의 아이템 수송을 더 쉽게 만들어줍니다. \n렌치를 들고 우클릭하여 연결 지점을 설정한 후, \n다른 커넥터를 우클릭하여 연결하세요. \n작동하려면 회전 동력(32+ RPM)이 필요합니다.",
+  "block.vsfluidlink.item_magnet_hose_connector": "아이템 자석 호스 커넥터",
+  "item.vsfluidlink.item_magnet_hose_connector.tooltip": "앞에 있는 다른 커넥터와 자동으로 연결됩니다. \n레드스톤 신호를 받으면 연결이 해제됩니다. \n작동하려면 회전 동력(32+ RPM)이 필요합니다.",
+  "block.vsfluidlink.electric_wire_connector": "전선 커넥터",
+  "item.vsfluidlink.electric_wire_connector.tooltip": "함선 간의 전기 수송을 더 쉽게 만들어줍니다. \n렌치를 들고 우클릭하여 연결 지점을 설정한 후, \n다른 커넥터를 우클릭하여 연결하세요.",
+  "block.vsfluidlink.electric_magnet_wire_connector": "자석 전선 커넥터",
+  "item.vsfluidlink.electric_magnet_wire_connector.tooltip": "앞에 있는 다른 커넥터와 자동으로 연결됩니다. \n레드스톤 신호를 받으면 연결이 해제됩니다.",
+  "block.vsfluidlink.chain_connector": "체인 커넥터",
+  "item.vsfluidlink.chain_connector.tooltip": "함선 간의 회전 동력 수송을 더 쉽게 만들어줍니다. \n렌치를 들고 우클릭하여 연결 지점을 설정한 후, \n다른 커넥터를 우클릭하여 연결하세요.",
+  "block.vsfluidlink.magnet_chain_connector": "자석 체인 커넥터",
+  "item.vsfluidlink.magnet_chain_connector.tooltip": "앞에 있는 다른 커넥터와 자동으로 연결됩니다. \n레드스톤 신호를 받으면 연결이 해제됩니다.",
+
+  "creativetab.vsfluidlink_tab": "VS 호스 커넥터",
+
+  "vsfluidlink.message.selection_cleared": "선택이 초기화되었습니다",
+  "vsfluidlink.message.first_pos_selected": "첫 번째 위치가 선택되었습니다: %s",
+  "vsfluidlink.message.second_pos_selected": "두 번째 위치가 선택되어 연결되었습니다: %s",
+  "vsfluidlink.message.cannot_link_to_self": "자기 자신과 연결할 수 없습니다",
+  "vsfluidlink.message.distance_too_far": "거리가 너무 멉니다",
+  "vsfluidlink.message.linked_successfully": "성공적으로 연결되었습니다!",
+  "vsfluidlink.message.link_disconnected": "연결이 끊어졌습니다",
+  "vsfluidlink.message.world_to_world_restricted": "설정에 의해 월드 블록 간의 연결이 제한되어 있습니다.",
+  "vsfluidlink.message.intra_ship_restricted": "설정에 의해 동일한 함선 내에서의 연결이 제한되어 있습니다."
+}

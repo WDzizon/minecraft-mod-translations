@@ -1,0 +1,43 @@
+{
+  "itemGroup.createshufflefilter": "크리에이트 셔플 필터",
+  
+  "_comment_items": "아이템 이름",
+  "item.createshufflefilter.shuffle_filter": "셔플 필터",
+  "item.createshufflefilter.weighted_shuffle_filter": "가중치 셔플 필터",
+  "item.createshufflefilter.skip": "건너뛰기",
+  "item.createshufflefilter.skip.tooltip.1": "이 아이템을 셔플 필터 슬롯에 배치하세요",
+  "item.createshufflefilter.skip.tooltip.2": "선택될 경우 해당 위치에는 블록이 설치되지 않습니다",
+  
+  "_comment_gui": "GUI 화면 번역",
+  "screen.createshufflefilter.shuffle_filter.title": "균등 셔플 필터",
+  "screen.createshufflefilter.weighted_shuffle_filter.title": "가중치 셔플 필터",
+  "gui.createshufflefilter.mode.equal": "균등 모드",
+  "gui.createshufflefilter.mode.weighted": "가중치 모드",
+  "gui.createshufflefilter.clear": "초기화",
+  "gui.createshufflefilter.save": "저장",
+  
+  "_comment_tooltips": "셔플 필터 툴팁 항목",
+  "item.createshufflefilter.shuffle_filter.tooltip.summary": "모든 블록이 동일한 선택 확률을 가집니다",
+  "item.createshufflefilter.shuffle_filter.tooltip.behaviour": "최대 18개의 다른 블록을 지원합니다",
+  "item.createshufflefilter.shuffle_filter.tooltip.usage": "우클릭하여 블록을 설정하세요",
+  
+  "item.createshufflefilter.weighted_shuffle_filter.tooltip.summary": "블록의 확률 가중치를 설정할 수 있습니다",
+  "item.createshufflefilter.weighted_shuffle_filter.tooltip.behaviour": "퍼센트 가중치가 있는 최대 9개의 블록을 지원합니다",
+  "item.createshufflefilter.weighted_shuffle_filter.tooltip.usage": "우클릭하여 블록과 가중치를 설정하세요",
+  
+  "_comment_legacy": "이전 버전 툴팁 항목 (참고용)",
+  "item.createshufflefilter.shuffle_filter.tooltip.summary.old": "필터링된 항목 중 무작위로 아이템을 선택합니다",
+  "item.createshufflefilter.shuffle_filter.tooltip.behaviour.description": "필터를 통과한 아이템 중 무작위로 아이템을 선택합니다.",
+  "item.createshufflefilter.shuffle_filter.tooltip.equal_mode": "균등 모드",
+  "item.createshufflefilter.shuffle_filter.tooltip.equal_mode.1": "일치하는 모든 아이템이 동일한 선택 확률을 가집니다",
+  "item.createshufflefilter.shuffle_filter.tooltip.equal_mode.2": "선택 시 아이템의 스택 수량을 무시합니다",
+  "item.createshufflefilter.shuffle_filter.tooltip.weighted_mode": "가중치 모드", 
+  "item.createshufflefilter.shuffle_filter.tooltip.weighted_mode.1": "스택이 많은 아이템일수록 선택될 확률이 높습니다",
+  "item.createshufflefilter.shuffle_filter.tooltip.weighted_mode.2": "스택 개수에 기반한 선택 확률입니다",
+  "item.createshufflefilter.shuffle_filter.tooltip.controls": "필터 GUI의 토글을 사용하여 모드를 전환하세요",
+  
+  "_comment_summary": "셔플 필터 모드 표시 요약 항목",
+  "item.createshufflefilter.shuffle_filter.summary.mode": "모드:",
+  "item.createshufflefilter.shuffle_filter.summary.mode.equal": "균등",
+  "item.createshufflefilter.shuffle_filter.summary.mode.weighted": "가중치"
+}
